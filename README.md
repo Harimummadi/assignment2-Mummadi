@@ -7,10 +7,14 @@ The best time to visit Ladakh is summer, I mostly like the **Adventurous Road-tr
 1. Book the Flight from Kansas City to Delhi,India.
 2. Go to Kansas City from Maryville.
    1. Board the Flight in Kansas Airport-Missouri to Delhi-India.
-   2. After Arrival at Delhi airport,we can take travel to ladakh by road or by flight.
-1. The best way to reach Ladakh is by road from Delhi so that we can enjoy the Nature and Ride.
-2. Here we reached my favourite place Ladakh.
-
-
+   3. After Arrival at Delhi airport,we can take travel to ladakh by road or by flight.
+      1. The best way to reach Ladakh is by road from Delhi so that we can enjoy the Nature and Ride.
+1. Here we reached my favourite place Ladakh.
+* If it is a Road trip carry an DSLR Camera.
+* Good insulated boots or trekking shoes in winters. In summers, any sports shoes should be fine.
+   * Sunglasses to protect your eyes from the reflections from snow.
+   * To protect the skin from harsh sunlight,its better to carry a sunscreen lotion that has highest SPF.
+* If Travelling on Bikes(really its an awesome adventure) check the vechile is in best condition.
+   * Just Enjoy the Nature and have fun.
 
 
