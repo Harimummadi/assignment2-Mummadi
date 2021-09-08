@@ -28,5 +28,5 @@ Here is the list of Food/Drink items which I would prefer.
 | Almond Milk | Mangolian | $1 |
 ---
 ### Pithy Quote
-> "Be kind whenever possible. It is always possible."- *Dalai Lama*
+> "Be kind whenever possible. It is always possible."- *Dalai Lama* <br>
 > "Every exit is an entry somewhere else."- *Tom Stoppard*
