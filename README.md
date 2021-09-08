@@ -26,3 +26,7 @@ Here is the list of Food/Drink items which I would prefer.
 | Kit-Kat Ice cream Shake | IceMagic | $2.5 |
 | Jalapeno Pizza | Mediterrian | $2.3 |
 | Almond Milk | Mangolian | $1 |
+---
+### Pithy Quote
+> "Be kind whenever possible. It is always possible."- *Dalai Lama*
+> "Every exit is an entry somewhere else."- *Tom Stoppard*
