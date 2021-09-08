@@ -32,7 +32,8 @@ Here is the list of Food/Drink items which I would prefer.
 > "Every exit is an entry somewhere else."- *Tom Stoppard*.
 ---
 ### Code Fencing
-> Convex hull of some given points is the intersection of all convex sets containing them. It is used as primary structure in many other problems in computational geometry and other areas like image processing, model identification, geographical data systems, and triangular computation of a set of points and so on. Computing the convex hull of a set of point is one of the most fundamental and important problems of computational geometry. In this paper a new algorithm is presented for computing the convex hull of a set of random points in the plane by using a sweep-line strategy. The sweep-line is a horizontal line that is moved from top to bottom on a map of points. Our algorithm is optimal and has time complexity O(nlogn) where n is the size of input.
+> Convex hull of some given points is the intersection of all convex sets containing them. It is used as primary structure in many other problems in computational geometry and other areas like image processing, model identification, geographical data systems, and triangular computation of a set of points and so on. Computing the convex hull of a set of point is one of the most fundamental and important problems of computational geometry. In this paper a new algorithm is presented for computing the convex hull of a set of random points in the plane by using a sweep-line strategy. The sweep-line is a horizontal line that is moved from top to bottom on a map of points. Our algorithm is optimal and has time complexity O(nlogn) where n is the size of input.<br>
+Link to the source <https://jac.ut.ac.ir/article_71276.html>
 ```
 struct pt {
     double x, y;
@@ -79,6 +80,6 @@ void convex_hull(vector<pt>& a) {
         a.push_back(down[i]);
 }
 ```
-Link for Code Source <https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html>
+Link for the Code Source <https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html>
 
 
