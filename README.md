@@ -17,4 +17,12 @@ The best time to visit Ladakh is summer, I mostly like the **Adventurous Road-tr
 * If Travelling on Bikes(really its an awesome adventure) check the vechile is in best condition.
    * Just Enjoy the Nature and have fun.
 [Click here to read Aboutme](./AboutMe.md)
-
+---
+###  Food And Drinks
+Here is the list of Food/Drink items which I would prefer.
+| Item | Location | Amount |
+|------|----------|------|
+| Chicken Nuggets | Grill | $4 |
+| Kit-Kat Ice cream Shake | IceMagic | $2.5 |
+| Jalapeno Pizza | Mediterrian | $2.3 |
+| Almond Milk | Mangolian | $1 |
